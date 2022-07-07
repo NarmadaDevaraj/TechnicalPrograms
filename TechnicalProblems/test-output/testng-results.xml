@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="ParallelSuit" duration-ms="92113" started-at="2022-07-04T17:11:04 IST" finished-at="2022-07-04T17:12:36 IST">
+    <groups>
+    </groups>
+    <test name="ParallelTest" duration-ms="92113" started-at="2022-07-04T17:11:04 IST" finished-at="2022-07-04T17:12:36 IST">
+      <class name="TestNGClasses.TesCase2">
+        <test-method status="PASS" signature="quiz()[pri:0, instance:TestNGClasses.TesCase2@480bdb19]" name="quiz" duration-ms="15166" started-at="2022-07-04T17:11:39 IST" finished-at="2022-07-04T17:11:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quiz -->
+        <test-method status="PASS" signature="quiz1()[pri:0, instance:TestNGClasses.TesCase2@480bdb19]" name="quiz1" duration-ms="11296" started-at="2022-07-04T17:11:54 IST" finished-at="2022-07-04T17:12:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quiz1 -->
+        <test-method status="PASS" signature="quiz3()[pri:0, instance:TestNGClasses.TesCase2@480bdb19]" name="quiz3" duration-ms="11387" started-at="2022-07-04T17:12:05 IST" finished-at="2022-07-04T17:12:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quiz3 -->
+        <test-method status="PASS" signature="quiz4()[pri:0, instance:TestNGClasses.TesCase2@480bdb19]" name="quiz4" duration-ms="10116" started-at="2022-07-04T17:12:17 IST" finished-at="2022-07-04T17:12:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quiz4 -->
+        <test-method status="PASS" signature="quiz5()[pri:0, instance:TestNGClasses.TesCase2@480bdb19]" name="quiz5" duration-ms="9517" started-at="2022-07-04T17:12:27 IST" finished-at="2022-07-04T17:12:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quiz5 -->
+      </class> <!-- TestNGClasses.TesCase2 -->
+      <class name="TestNGClasses.TestCase1">
+        <test-method status="PASS" signature="company()[pri:0, instance:TestNGClasses.TestCase1@86be70a]" name="company" duration-ms="7873" started-at="2022-07-04T17:11:04 IST" finished-at="2022-07-04T17:11:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- company -->
+        <test-method status="PASS" signature="quiz3()[pri:0, instance:TestNGClasses.TestCase1@86be70a]" name="quiz3" duration-ms="11228" started-at="2022-07-04T17:11:12 IST" finished-at="2022-07-04T17:11:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quiz3 -->
+        <test-method status="PASS" signature="quiz4()[pri:0, instance:TestNGClasses.TestCase1@86be70a]" name="quiz4" duration-ms="15480" started-at="2022-07-04T17:11:23 IST" finished-at="2022-07-04T17:11:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quiz4 -->
+      </class> <!-- TestNGClasses.TestCase1 -->
+    </test> <!-- ParallelTest -->
+  </suite> <!-- ParallelSuit -->
+</testng-results>
