@@ -1,0 +1,34 @@
+1)eclipse plugin - Error : No repository found at http://rlogiacco.github.com/Natural - Stack Overflow 
+
+https://stackoverflow.com/questions/67356740/error-no-repository-found-at-http-rlogiacco-github-com-natural
+
+2)github - Can't connect to any URI error while commiting code from Eclipse to Git Repository - Stack Overflow
+
+https://stackoverflow.com/questions/30421875/cant-connect-to-any-uri-error-while-commiting-code-from-eclipse-to-git-reposito
+
+3)Log4j2 Configuration using Properties File - Studytonight
+
+https://www.studytonight.com/post/log4j2-configuration-using-properties-file
+
+4)NarmadaDevaraj/Narmada_MiniProject: committing updated codes
+https://github.com/NarmadaDevaraj/Narmada_MiniProject
+
+5)extentreports-java/extent-config.xml at master · anshooarora/extentreports-java
+https://github.com/anshooarora/extentreports-java/blob/master/extent-config.xml
+
+6)Cucumber-JVM 7 Report generation using ExtentReports Adapter plugin – Grasshopper's Chirping
+
+http://ghchirp.tech/3196/
+
+7)REST Assured
+https://rest-assured.io/
+
+8)Cannot move project as it overlaps... Git/Eclipse - Stack Overflow
+https://stackoverflow.com/questions/28224076/cannot-move-project-as-it-overlaps-git-eclipse
+
+9)How to run testng.xml from POM.xml (maven)
+https://automationtalks.com/2017/11/16/run-testng-xml-pom-xml-maven/#:~:text=You%20are%20good%20to%20execute%20your%20testng.xml%20file,to%20execute%20test%20case%20is%20from%20command%20prompt%29.
+
+10)Depricated wait in selenium 4
+
+https://stackoverflow.com/questions/71761074/the-constructor-webdriverwaitchromedriver-int-is-undefined
