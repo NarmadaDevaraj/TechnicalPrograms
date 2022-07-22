@@ -17,7 +17,7 @@ public class I1_FindDuplicateElementsInAnArray {
 					count++;
 					//System.out.println(arr[i]);
 					arr[j]=0;
-					System.out.println("j value="+j);
+					//System.out.println("j value="+j);
 				}
 			}
 			if(count>1&&arr[i]!=0)

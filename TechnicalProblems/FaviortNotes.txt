@@ -32,3 +32,5 @@ https://automationtalks.com/2017/11/16/run-testng-xml-pom-xml-maven/#:~:text=You
 10)Depricated wait in selenium 4
 
 https://stackoverflow.com/questions/71761074/the-constructor-webdriverwaitchromedriver-int-is-undefined
+
+11)https://courses.letskodeit.com/practice
