@@ -34,3 +34,7 @@ https://automationtalks.com/2017/11/16/run-testng-xml-pom-xml-maven/#:~:text=You
 https://stackoverflow.com/questions/71761074/the-constructor-webdriverwaitchromedriver-int-is-undefined
 
 11)https://courses.letskodeit.com/practice
+
+12)https://github.com/jerin-jose0408/GenpactMiniProject --jerins git code for reference if needed
+
+13)https://github.com/Kavita1212/ParaBank  -- kavita's git code for reference if needed
