@@ -38,3 +38,8 @@ https://stackoverflow.com/questions/71761074/the-constructor-webdriverwaitchrome
 12)https://github.com/jerin-jose0408/GenpactMiniProject --jerins git code for reference if needed
 
 13)https://github.com/Kavita1212/ParaBank  -- kavita's git code for reference if needed
+
+14)https://github.com/mgp/book-notes/blob/master/effective-java-2nd-edition.markdown --java books
+
+15)https://www.oracle.com/java/technologies/javase/codeconventions-programmingpractices.html
+
